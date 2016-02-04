@@ -1,11 +1,9 @@
-//: Playground - noun: a place where people can play
+//: Juego de memoria
+
+// Author: Sergio García
+// https://github.com/sgm123/Coursera-Swift-programar-para-iOS
 
 import UIKit
-
-var numbers = [Int]()
-for var i = 0; i <= 100; i++ {
-    numbers.append(i)
-}
 
 
 for var i = 0; i <= 100; i++ {
