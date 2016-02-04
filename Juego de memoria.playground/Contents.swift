@@ -16,7 +16,6 @@ for var i = 0; i <= 100; i++ {
     if i % 2 != 0 {
         print("# \(i) impar!!!")
     }
-    
     if i > 30 &&
         i < 40 {
         print("# \(i) Viva Swift!!!")
